@@ -13,11 +13,10 @@ Usage
 * clone this repository
 * install simplejson and simplekml:
 
-    virtualenv /tmp/venv
-    . /tmp/venv/bin/activate
-    pip install simplejson
-    pip install simplekml
-
+        virtualenv /tmp/venv
+        . /tmp/venv/bin/activate
+        pip install simplejson
+        pip install simplekml
 
 * run convert.py
 
